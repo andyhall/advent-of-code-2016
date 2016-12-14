@@ -1,0 +1,20 @@
+{
+  "name": "advent-of-code-2016",
+  "version": "0.0.1",
+  "description": "My advent-of-code solutions for 2016",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "local": "node local.js"
+  },
+  "author": "Andy Hall",
+  "license": "MIT",
+  "devDependencies": {
+    "raw-loader": "^0.5.1"
+  },
+  "dependencies": {
+    "abstract-pathfinder": "0.0.1",
+    "js-md5": "^0.4.1",
+    "ndarray": "^1.0.18"
+  }
+}
